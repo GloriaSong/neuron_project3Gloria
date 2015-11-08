@@ -1,2 +1,2 @@
 # neuron_project3Gloria
-Learn something about neurons!
+Let's learn something about neurons!
